@@ -1,43 +1,43 @@
-BeetrootLesson29
-Document Object Model (DOM)
-Домашнее задание:
+BeetrootLesson29<br/>
+Document Object Model (DOM)<br/>
+Домашнее задание:<br/>
 
-Создать страницу, которая выводит нумерованный список песен:
+Создать страницу, которая выводит нумерованный список песен:<br/>
 
-var playList = [
-{
-author: “LED ZEPPELIN”,
-song:”STAIRWAY TO HEAVEN”
-},
-{
-author: “QUEEN”,
-song:”BOHEMIAN RHAPSODY”
-},
-{
-author: “LYNYRD SKYNYRD”,
-song:”FREE BIRD”
-},
-{
-author: “DEEP PURPLE”,
-song:”SMOKE ON THE WATER”
-},
-{
-author: “JIMI HENDRIX”,
-song:”ALL ALONG THE WATCHTOWER”
-},
-{
-author: “AC/DC”,
-song:”BACK IN BLACK”
-},
-{
-author: “QUEEN”,
-song:”WE WILL ROCK YOU”
-},
-{
-author: “METALLICA”,
-song:”ENTER SANDMAN”
-}
-];
+var playList = [<br/>
+{<br/>
+author: “LED ZEPPELIN”,<br/>
+song:”STAIRWAY TO HEAVEN”<br/>
+},<br/>
+{<br/>
+author: “QUEEN”,<br/>
+song:”BOHEMIAN RHAPSODY”<br/>
+},<br/>
+{<br/>
+author: “LYNYRD SKYNYRD”,<br/>
+song:”FREE BIRD”<br/>
+},<br/>
+{<br/>
+author: “DEEP PURPLE”,<br/>
+song:”SMOKE ON THE WATER”<br/>
+},<br/>
+{<br/>
+author: “JIMI HENDRIX”,<br/>
+song:”ALL ALONG THE WATCHTOWER”<br/>
+},<br/>
+{<br/>
+author: “AC/DC”,<br/>
+song:”BACK IN BLACK”<br/>
+},<br/>
+{<br/>
+author: “QUEEN”,<br/>
+song:”WE WILL ROCK YOU”<br/>
+},<br/>
+{<br/>
+author: “METALLICA”,<br/>
+song:”ENTER SANDMAN”<br/>
+}<br/>
+];<br/>
 
 Создать HTML-страницу с кнопкой “Открыть” и модальным окном. На модальном окне должен быть текст и кнопка “Закрыть”. Изначально модальное окно не отображается. При клике на кнопку “Открыть” появляется модальное окно, на кнопку “Закрыть” – исчезает.
 
